@@ -1,15 +1,29 @@
 import React from "react"
-import "../components/bloglist.css"
+import "./blogtemplate.css"
 import avatar from "../images/avatar.jpg"
 import github from "../images/github-brands.svg"
 import twitter from "../images/twitter-brands.svg"
 import linkedin from "../images/linkedin-brands.svg"
 import { Link } from "gatsby"
+import { graphql } from "gatsby"
+import Head from "../components/head"
 
-const NotFound = () => {
-   return (
+export const query = graphql`
+  query($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      frontmatter {
+        title
+        date
+      }
+      html
+    }
+  }
+`
 
+const Blog = (props) => {
+  return (
     <div className="container">
+       <Head title={props.data.markdownRemark.frontmatter.title}/>
     <div className="sidebar">
     
     <img className="avatar" src={avatar}/>
@@ -21,7 +35,7 @@ const NotFound = () => {
 
 
 <ul>
- <li><Link to="/">Articles</Link></li>
+ <li><Link to="/">Blog</Link></li>
  <li><Link to="/about">About Me</Link></li>
 </ul>
 
@@ -36,21 +50,18 @@ const NotFound = () => {
       </a>
       <div className="copyright">@ All Rights Reserved</div>
       </div>
+      <div className="post-container">
 
-      <div>
-
-     <div>Page not found</div>
-     <Link to="/">Head home...</Link>
-</div>
-
-</div>
-
-   )
-
-}
- 
-
-  
+      <div className ="post-title">{props.data.markdownRemark.frontmatter.title}</div>
+            <p className="blog-date">{props.data.markdownRemark.frontmatter.date}</p>
+            <div className="content" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
 
 
-export default NotFound
+      </div>
+    
+    </div>
+    
+    );
+  }
+
+export default Blog

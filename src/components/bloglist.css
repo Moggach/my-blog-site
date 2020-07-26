@@ -1,0 +1,49 @@
+.main-content {
+    padding-top: 1.7rem;
+    margin-left: 1.5rem;
+}
+
+
+
+.blog-list {
+    padding-left: 2rem;
+}
+
+.blog-date {
+    color: #f7a046;
+    text-transform: uppercase;
+    padding-bottom: 0.5rem;
+}
+
+.read-more {
+ color:  #5d93ff;
+ padding-top: 0.5rem;
+ margin-bottom: 1.5rem;
+}
+
+
+
+.read-more:hover {
+    text-decoration: underline;
+    text-decoration-color: #5d93ff;
+}
+
+.blog-title {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.blog-blurb {
+    line-height: 1.3em;
+   
+}
+
+
+a.blog-link:hover {
+    text-decoration: underline;
+    text-decoration-color:#5d93ff;
+}
+
+
+ 
