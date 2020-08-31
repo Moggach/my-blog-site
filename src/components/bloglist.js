@@ -17,7 +17,7 @@ const BlogList = () => {
               date
               title
             }
-            excerpt
+            excerpt 
           }
         }
       }

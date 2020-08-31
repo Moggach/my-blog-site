@@ -25,20 +25,23 @@ font-family: 'Roboto', sans-serif;
     height: 75px;
     border-radius: 50%;
 }
-.social-icons {
-    width: 20px;
-    height: 20px;
-    padding-right: 0.5rem;
-    margin-top: 1rem;
+.icons {
    
+    margin-right: 0.5rem;
+    font-size: 1.3rem;
 }
+
+.icons:hover {
+    color: silver;
+}
+
 .title {
     font-size: 1.5rem;
     font-weight: 400;
     margin-bottom: 1.2rem;
 }
 .copyright {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     font-weight: 300;
     font-size: 0.7rem;
 }

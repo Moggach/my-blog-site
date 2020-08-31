@@ -2,12 +2,15 @@ import React from "react"
 import "./globalstyles.css"
 import "./about.css"
 import avatar from "../images/avatar.jpg"
-import github from "../images/github-brands.svg"
-import twitter from "../images/twitter-brands.svg"
-import linkedin from "../images/linkedin-brands.svg"
+
 import { Link } from "gatsby"
 import Head from "../components/head"
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faTwitter,
+  faLinkedin,
+  faGithub,
+} from '@fortawesome/free-brands-svg-icons'
   const AboutPage = function() {
     return (
      
@@ -28,14 +31,14 @@ import Head from "../components/head"
    <li><Link to="/about">About Me</Link></li>
   </ul>
 
-        <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={twitter} alt="" />
+  <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
+        <FontAwesomeIcon className="icons" icon={faTwitter} />
         </a>
         <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={linkedin} alt="" />
+        <FontAwesomeIcon className="icons" icon={faLinkedin}  />
         </a>
         <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={github} alt="" />
+        <FontAwesomeIcon className="icons" icon={faGithub}  />
         </a>
         <div className="copyright">@ All Rights Reserved</div>
         </div>
@@ -51,17 +54,12 @@ import Head from "../components/head"
       <p>I am a member of BookMachine Team Unplugged where I help to shout about their amazing events series.</p>
       <p>I enjoy using tech to solve publishing problems. This blog is all about tech topics from a publishing perspective.</p>
      
-         <p> Want to work with me? Get in touch &#x1f4e7;</p>
-      
-    
-      </div>
-
-      </div>
-     
-      
-
-   
-    )
-  }
+         <div>
+         Want to get in touch? Email me <a href="mailto:acunnane13@gmail.com"><span>&#x1f4e7;</span></a>
+        </div>
+        </div>
+        </div>
+    );
+        }
 
 export default AboutPage

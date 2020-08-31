@@ -1,12 +1,16 @@
 import React from "react"
 import "./globalstyles.css"
 import avatar from "../images/avatar.jpg"
-import github from "../images/github-brands.svg"
-import twitter from "../images/twitter-brands.svg"
-import linkedin from "../images/linkedin-brands.svg"
 import { Link } from "gatsby"
 import BlogList from "../components/bloglist"
 import Head from "../components/head"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faTwitter,
+  faLinkedin,
+  faGithub,
+} from '@fortawesome/free-brands-svg-icons'
+
 
 
 
@@ -29,17 +33,17 @@ const Index = function() {
    <li><Link to="/">Blog</Link></li>
    <li><Link to="/about">About Me</Link></li>
   </ul>
-
-        <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={twitter} alt="" />
+  <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
+        <FontAwesomeIcon className="icons" icon={faTwitter} />
         </a>
         <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={linkedin} alt="" />
+        <FontAwesomeIcon className="icons" icon={faLinkedin}  />
         </a>
         <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
-          <img className="social-icons" src={github} alt="" />
+        <FontAwesomeIcon className="icons" icon={faGithub}  />
         </a>
         <div className="copyright">@ All Rights Reserved</div>
+       
         </div>
         <div><BlogList/></div>
       

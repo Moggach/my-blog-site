@@ -1,12 +1,18 @@
 import React from "react"
 import "./blogtemplate.css"
 import avatar from "../images/avatar.jpg"
-import github from "../images/github-brands.svg"
-import twitter from "../images/twitter-brands.svg"
-import linkedin from "../images/linkedin-brands.svg"
+
 import { Link } from "gatsby"
 import { graphql } from "gatsby"
 import Head from "../components/head"
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {
+  faTwitter,
+  faLinkedin,
+  faGithub,
+} from '@fortawesome/free-brands-svg-icons'
+
 
 export const query = graphql`
   query($slug: String!) {
@@ -39,15 +45,15 @@ const Blog = (props) => {
  <li><Link to="/about">About Me</Link></li>
 </ul>
 
-      <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
-        <img className="social-icons" src={twitter} alt="" rel="noreferrer"/>
-      </a>
-      <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
-        <img className="social-icons" src={linkedin} alt="" />
-      </a>
-      <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
-        <img className="social-icons" src={github} alt="" />
-      </a>
+<a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
+        <FontAwesomeIcon className="icons" icon={faTwitter} />
+        </a>
+        <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
+        <FontAwesomeIcon className="icons" icon={faLinkedin}  />
+        </a>
+        <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
+        <FontAwesomeIcon className="icons" icon={faGithub}  />
+        </a>
       <div className="copyright">@ All Rights Reserved</div>
       </div>
       <div className="post-container">
