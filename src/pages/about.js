@@ -14,12 +14,12 @@ import Head from "../components/head"
       <div className="container">
         <Head title="About"/>
       <div className="sidebar">
-      
+     
       <img className="avatar" src={avatar}/>
         <div className="about">
           <p className="title">Anna Cunnane</p>
-          <p>Pellentesque odio nisi, euismod in, pharetra a
-            ultricies in, diam. Sed arcu. </p>
+          <p>Hi! I'm Anna &#128075; I work in publishing and this is my tech blog &#128105;&#8205;&#128187;</p>
+          
         </div>
 
  
@@ -28,21 +28,34 @@ import Head from "../components/head"
    <li><Link to="/about">About Me</Link></li>
   </ul>
 
-        <a href="https://twitter.com/MollyBloom1989" target="_blank">
+        <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
           <img className="social-icons" src={twitter} alt="" />
         </a>
-        <a href="https://www.linkedin.com/in/annacunnane/" target="_blank">
+        <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
           <img className="social-icons" src={linkedin} alt="" />
         </a>
-        <a href="https://github.com/Moggach" target="_blank">
+        <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
           <img className="social-icons" src={github} alt="" />
         </a>
         <div className="copyright">@ All Rights Reserved</div>
         </div>
-       <div className="about-text">Lorem ipsum dolor sit amet, ad soleat ancillae insolens sed. Usu et invidunt constituto deseruisse. Partem mucius nemore at vel. Eu veri signiferumque vim. Omnes oportere duo ad, quo unum ceteros percipit ea. Nec sensibus disputationi ut. Nam te option molestie, populo bonorum dissentias no vix.
-
-Per mediocrem argumentum ei, sed cu solet concludaturque. Per ut exerci oporteat liberavisse. In eos enim nostro aliquip, mucius probatus no has. Agam expetenda eu mel. Cum tota incorrupte cu, convenire delicatissimi id mea, cum quaeque elaboraret te.</div>
+       <div className="about-text">
+         <h2>Hello and thank you for visiting my blog</h2>
+         <p>I work in book publishing in London and I specialise in metadata  &#x1f4da; </p>
+         <code>Metadata: Simply put, your book metadata is any data that describes your book—including title, subtitle, price, publication date, ISBN, and any other relevant information that readers use to find your book. 
+         Readers depend on good metadata to find their next read. <br></br> ~ IngramSpark</code>
+         
+       
+         <p>I'm teaching myself front end web development. Right now I'm digging into React but I've also been learning HMTL5, CSS3, Saas and Tailwind.</p>
+      <p>I was awarded a London Book Fair Trailblazer Award in 2018 for my work in raising the profile of metadata across the industry &#x1F3C6;</p>
+      <p>I am a member of BookMachine Team Unplugged where I help to shout about their amazing events series.</p>
+      <p>I enjoy using tech to solve publishing problems. This blog is all about tech topics from a publishing perspective.</p>
+     
+         <p> Want to work with me? Get in touch &#x1f4e7;</p>
       
+    
+      </div>
+
       </div>
      
       

@@ -20,8 +20,8 @@ const Index = function() {
       <img className="avatar" src={avatar}/>
         <div className="about">
           <p className="title">Anna Cunnane</p>
-          <p>Pellentesque odio nisi, euismod in, pharetra a
-            ultricies in, diam. Sed arcu. </p>
+          <p>Hi! I'm Anna &#128075; I work in publishing and this is my tech blog &#128105;&#8205;&#128187;</p>
+          
         </div>
 
  
@@ -30,13 +30,13 @@ const Index = function() {
    <li><Link to="/about">About Me</Link></li>
   </ul>
 
-        <a href="https://twitter.com/MollyBloom1989" target="_blank">
+        <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
           <img className="social-icons" src={twitter} alt="" />
         </a>
-        <a href="https://www.linkedin.com/in/annacunnane/" target="_blank">
+        <a href="https://www.linkedin.com/in/annacunnane/" target="_blank" rel="noreferrer">
           <img className="social-icons" src={linkedin} alt="" />
         </a>
-        <a href="https://github.com/Moggach" target="_blank">
+        <a href="https://github.com/Moggach" target="_blank" rel="noreferrer">
           <img className="social-icons" src={github} alt="" />
         </a>
         <div className="copyright">@ All Rights Reserved</div>
