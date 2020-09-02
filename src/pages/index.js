@@ -30,7 +30,7 @@ const Index = function() {
 
  
   <ul>
-   <li><Link to="/">Blog</Link></li>
+   <li className="active"><Link to="/">Blog</Link></li>
    <li><Link to="/about">About Me</Link></li>
   </ul>
   <a href="https://twitter.com/MollyBloom1989" target="_blank" rel="noreferrer">
