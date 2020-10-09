@@ -1,0 +1,9 @@
+.not-found {
+    padding: 1em
+}
+
+
+p:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
