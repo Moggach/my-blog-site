@@ -1,4 +1,5 @@
 import React from "react"
+import "../pages/globalstyles.css"
 import "./blogtemplate.css"
 import avatar from "../images/avatar.jpg"
 
@@ -30,7 +31,7 @@ const Blog = (props) => {
   return (
     <div className="container">
        <Head title={props.data.markdownRemark.frontmatter.title}/>
-    <div className="sidebar">
+    <div className="blog-sidebar">
     
     <img className="avatar" src={avatar}/>
       <div className="about">
@@ -56,7 +57,7 @@ const Blog = (props) => {
         </a>
       <div className="copyright">@ All Rights Reserved</div>
       </div>
-      <div className="post-container">
+      <div className="post">
 
       <div className ="post-title">{props.data.markdownRemark.frontmatter.title}</div>
             <p className="blog-date">{props.data.markdownRemark.frontmatter.date}</p>
@@ -64,7 +65,6 @@ const Blog = (props) => {
 
 
       </div>
-    
     </div>
     
     );

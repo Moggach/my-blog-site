@@ -7,6 +7,16 @@ module.exports = {
   
   plugins: [
 
+    {
+        resolve: `gatsby-plugin-gtag`,
+        options: {
+          
+          trackingId: `UA-180669945-1',
+        },
+      },
+
+
+
     'gatsby-plugin-react-helmet',
    
     {
