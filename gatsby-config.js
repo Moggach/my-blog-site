@@ -15,17 +15,17 @@ module.exports = {
         },
       },
 
-
-
-    'gatsby-plugin-react-helmet',
-   
-    {
+      {
         resolve: 'gatsby-source-filesystem',
         options: {
             name: 'src',
             path: `${__dirname}/src/`
         }
-    },
+    }
+
+    'gatsby-plugin-react-helmet',
+   
+    
     'gatsby-plugin-sharp',
     {
         resolve: 'gatsby-transformer-remark',
