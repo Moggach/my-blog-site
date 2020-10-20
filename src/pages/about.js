@@ -57,7 +57,24 @@ import {
      
          <div>
          Want to get in touch? Email me <a href="mailto:acunnane13@gmail.com"><span>&#x1f4e7;</span></a>
+         <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+
         </div>
+        
         </div>
         </div>
     );
