@@ -57,20 +57,20 @@ import {
      
          <div>
          Want to get in touch? Email me <a href="mailto:acunnane13@gmail.com"><span>&#x1f4e7;</span></a>
-         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+         {/* <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
   <input type="hidden" name="bot-field" />
   <input type="hidden" name="form-name" value="contact" />
   <div className="field half first">
-    <label htmlFor="name">Name</label>
-    <input type="text" name="name" id="name" />
+    <label htmlFor="name"></label>
+    <input type="text" name="name" id="name"  placeholder="Name"/>
   </div>
   <div className="field half">
-    <label htmlFor="email">Email</label>
-    <input type="text" name="email" id="email" />
+    <label htmlFor="email"></label>
+    <input type="text" name="email" id="email" placeholder="Email"/>
   </div>
   <div className="field">
-    <label htmlFor="message">Message</label>
-    <textarea name="message" id="message" rows="6" />
+    <label htmlFor="message"></label>
+    <textarea name="message" id="message" rows="6" placeholder="Message"/>
   </div>
   <ul className="actions">
     <li>
@@ -80,7 +80,7 @@ import {
       <input type="reset" value="Clear" />
     </li>
   </ul>
-</form>
+    </form>*/} 
         </div>
         
         </div>
