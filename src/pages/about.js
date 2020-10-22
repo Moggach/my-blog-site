@@ -56,8 +56,8 @@ import {
       <p>I enjoy using tech to solve publishing problems. This blog is all about tech topics from a publishing perspective.</p>
      
          <div>
-         Want to get in touch? Email me <a href="mailto:acunnane13@gmail.com"><span>&#x1f4e7;</span></a>
-         {/* <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+        Want to get in touch with me? Please use the form below and I will get back to you as soon as I can.
+        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
   <input type="hidden" name="bot-field" />
   <input type="hidden" name="form-name" value="contact" />
   <div className="field half first">
@@ -77,10 +77,10 @@ import {
       <input type="submit" value="Send Message" className="special" />
     </li>
     <li>
-      <input type="reset" value="Clear" />
+      <input type="reset" value="Clear" className="special submit" />
     </li>
   </ul>
-    </form>*/} 
+    </form>
         </div>
         
         </div>
