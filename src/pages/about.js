@@ -77,9 +77,10 @@ import {
       <input type="submit" value="Send Message" className="special" />
     </li>
     <li>
-      <input type="reset" value="Clear" className="special submit" />
+      <input type="reset" value="Clear" className="special" />
     </li>
   </ul>
+  <form name="Contact Form" method="POST" data-netlify="true" action="/thankyou" />
     </form>
         </div>
         
