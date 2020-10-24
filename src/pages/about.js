@@ -57,7 +57,7 @@ import {
      
          <div>
         Want to get in touch with me? Please use the form below and I will get back to you as soon as I can.
-        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field"  action="/thankyou">
   <input type="hidden" name="bot-field" />
   <input type="hidden" name="form-name" value="contact" />
   <div className="field half first">
@@ -80,7 +80,7 @@ import {
       <input type="reset" value="Clear" className="special" />
     </li>
   </ul>
-  <form name="Contact Form" method="POST" data-netlify="true" action="/thankyou" />
+  
     </form>
         </div>
         
