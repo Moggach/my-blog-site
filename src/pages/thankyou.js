@@ -46,7 +46,7 @@ import {
         </div>
        <div className="about-text">
          
-    <h1>Contact</h1>
+    
     <p>Thank you for your submission!</p>
  
         </div>

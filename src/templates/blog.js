@@ -31,7 +31,7 @@ const Blog = (props) => {
   return (
     <div className="container">
        <Head title={props.data.markdownRemark.frontmatter.title}/>
-    <div className="blog-sidebar">
+    <div className="sidebar">
     
     <img className="avatar" src={avatar}/>
       <div className="about">
@@ -61,7 +61,7 @@ const Blog = (props) => {
 
       <div className ="post-title">{props.data.markdownRemark.frontmatter.title}</div>
             <p className="blog-date">{props.data.markdownRemark.frontmatter.date}</p>
-            <div className="content" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
+            <div className="blog-content" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
 
 
       </div>

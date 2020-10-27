@@ -1,16 +1,13 @@
 ---
 title: "Metadata 101"
-date: "2020-10-24"
+date: "2020-10-27"
 ---
 
-You may have seen more job postings for it recently but what exactly is metadata? And if you work in publishing - or hope to be soon - what do you need to know?
+Metadata is a term we hear a lot about but what exactly is it? And if you work in publishing - or hope to be soon - what do you need to know? In this post we dive into the basic elements of a book's metadata.
 
-![](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
+![Person picking white and red book on bookshelf](https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
 
-
-
-
-
+<span>Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Christin Hume</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 Metadata is a set of data that describes or gives information about content. ‘Meta’ means about the thing itself. In this instance it is *data about data* (your book).
 
@@ -44,7 +41,7 @@ These might be:
 Retailers need to know where they can legally buy and re-sell a product. 
 
 1. If a publisher has UK and Commonwealth sales rights to a book then they should include the ISO country codes for these territories.
-2. Publishers can also explicitly state here they do not have the right to sell the book.
+2. Publishers can also explicitly state they do not have the right to sell the book.
 3. They can include conditions on their sale of the product for example a non-exclusive right would allow other publishers or distributors to have access to this market. 
 4. There are conventional groupings of countries to make this process easier such as North American, Open Market, EU, UK and Commonwealth and World rights. 
 

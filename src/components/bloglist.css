@@ -46,4 +46,10 @@ a.blog-link:hover {
 }
 
 
- 
+@media only screen and (min-width: 768px) {
+    .sidebar {
+        height: 100vh;
+    }
+
+
+}
