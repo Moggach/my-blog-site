@@ -23,9 +23,26 @@ export const query = graphql`
         date
       }
       html
+      fields {
+        readingTime {
+          text
+        }
+      }
+
+
+
     }
+
+   
+    
+    
   }
 `
+
+
+
+
+
 
 const Blog = (props) => {
   return (
@@ -61,6 +78,7 @@ const Blog = (props) => {
 
       <div className ="post-title">{props.data.markdownRemark.frontmatter.title}</div>
             <p className="blog-date">{props.data.markdownRemark.frontmatter.date}</p>
+            <p className="time-read"> {props.data.markdownRemark.fields.readingTime.text}</p>
             <div className="blog-content" dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html }}></div>
 
 

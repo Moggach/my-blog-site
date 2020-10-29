@@ -18,6 +18,11 @@ p:hover {
       color: #5d93ff;
   }
 
+.time-read {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
     .post {
       padding: 2rem;
     }

@@ -44,7 +44,7 @@ import {
         </a>
         <div className="copyright">@ All Rights Reserved</div>
         </div>
-       <div className="about-text">
+       <div className="content">
          
     
     <p>Thank you for your submission!</p>
