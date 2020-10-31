@@ -13,9 +13,6 @@ import {
   faGithub,
 } from '@fortawesome/free-brands-svg-icons'
 
-
-
-
 const AboutPage = (props) => {
   return (
     <div className="container">
@@ -143,5 +140,4 @@ const AboutPage = (props) => {
     
     );
   }
-
 export default AboutPage
