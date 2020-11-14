@@ -1,5 +1,11 @@
 
+.post {
 
+  border-left: 1px dotted silver;
+
+  
+  
+}
 
 p:hover {
     text-decoration: none;
@@ -37,6 +43,19 @@ p:hover {
  }
 
  
+ @media only screen and (max-width: 600px) {
+ 
+ .post {
   
+  border-left: none;
+ 
+
+ };
+ 
+
+  
+}
+
+
   
 

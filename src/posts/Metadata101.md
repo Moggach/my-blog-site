@@ -22,7 +22,7 @@ In the book industry there are some basic forms of metadata for physical and dig
 It can include:
 1. The book’s title
 2. Contributors names e.g. author, illustrator or editor if it’s an academic text
-3. The subject of the book which is typically indicated by BIC and thema codes 
+3. The subject of the book which is typically indicated by BIC and Thema codes 
 4. Desciptive text such as the blurb or author note
 5. The intended audience - important if you have a children’s book and you need to include the reading age as well!
 6. Information about the physical item - is it a hardback or a paperback? What is the page count, the dimensions and the weight? 
@@ -35,7 +35,7 @@ These might be:
 2. Its current availability e.g. is it not yet published, is it in stock or out of print?
 3. The price of the book both now and future price changes- very important to retailers! Other currencies for sale in other markets can also be supplied.
 4. The type of price which could be either a recommended retail price or a wholesale price. The difference between these is the retailer's margin. 
-5. Whether or not VAT is applied to the product - books are exempt from VAT but stationery is not. This extra 20% on the price of a product can massively affect publishers’ margins.
+5. Whether or not VAT is applied to the product - books are rated zero for VAT but stationery is not. This extra 20% on the price of a product can massively affect publishers’ margins.
 
 #### Product rights data elements - this covers the territories where the book is allowed to be sold
 Retailers need to know where they can legally buy and re-sell a product. 

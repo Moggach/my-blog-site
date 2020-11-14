@@ -47,7 +47,7 @@ const Index = function() {
         <div className="copyright">@ All Rights Reserved</div>
        
         </div>
-        <div><BlogList/></div>
+        <div className="border-container"><BlogList/></div>
       
       </div>
      

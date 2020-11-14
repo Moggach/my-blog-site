@@ -2,7 +2,7 @@
 
 
 .content {
-   
+   border-left: 1px silver dotted;
    padding: 2rem;
    
 }
@@ -67,3 +67,15 @@ a:hover {
    }
  }
 
+ @media only screen and (max-width: 600px) {
+ 
+   .content {
+    
+    border-left: none;
+   
+  
+   };
+   
+  
+    
+  }

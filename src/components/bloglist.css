@@ -3,10 +3,13 @@
     margin-left: 1.5rem;
 }
 
-
+.border-container {
+    border-left: 1px silver dotted;
+}
 
 .blog-list {
     padding-left: 2rem;
+    
 }
 
 .blog-date {
@@ -51,5 +54,18 @@ a.blog-link:hover {
         height: 100vh;
     }
 
-
 }
+
+
+@media only screen and (max-width: 600px) {
+ 
+    .border-container {
+     
+     border-left: none;
+    
+   
+    };
+    
+   
+     
+   }
