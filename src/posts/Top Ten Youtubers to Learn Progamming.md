@@ -40,7 +40,7 @@ TheNetNinja shows you how to ‘black-belt your web skills’ with over 1,000 fr
 Wes Bos is a full stack web developer who creates video courses and a coding podcast called Syntax. Known as an expert in Javascript this guy really knows his stuff. Try his [30 day Vanilla Javascript course](https://javascript30.com/) to practice your skills.
  
 ### 9. [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
-Mosh has 20 years of experience as a developer and he’s taught over 10 million people how to code through his YouTube channel and online courses. 
+Mosh has 20 years of experience as a developer and he’s taught over 10 million people how to code through his YouTube channel and online courses. The [Learning Paths](https://codewithmosh.com/p/learning-paths) section on his website is well worth checking out.
 
 ### 10. [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 Ed is a really friendly and accessible teacher. I love his videos on web design, UI design and using Figma. He explains the difference between good and bad web design in a really clear and engaging way. Dev Ed will help you become creative with web development.
