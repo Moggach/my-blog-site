@@ -6,8 +6,8 @@ import { Link } from "gatsby"
 
 const BlogList = () => {
     const data = useStaticQuery(graphql`
-    query {
-      allMarkdownRemark {
+    {
+      allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
         edges {
           node {
             fields {
@@ -17,7 +17,7 @@ const BlogList = () => {
               date
               title
             }
-           excerpt
+            excerpt
           }
         }
       }
