@@ -28,22 +28,12 @@ export const query = graphql`
           text
         }
       }
-
-
-
     }
-
    
     
     
   }
 `
-
-
-
-
-
-
 const Blog = (props) => {
   return (
     <div className="container">
