@@ -1,4 +1,5 @@
 
+const path = require('path')
 
 
 module.exports.onCreateNode = ({ node, actions }) => {
@@ -21,10 +22,8 @@ module.exports.onCreateNode = ({ node, actions }) => {
       const { createPage } = actions
       const blogTemplate = path.resolve('./src/templates/blog.js')
       const res = await graphql (`
-
       query {
-            allMarkdownRemark
-            {
+            allMarkdownRemark {
               edges {
                 node {
                   fields {
@@ -35,12 +34,8 @@ module.exports.onCreateNode = ({ node, actions }) => {
             }
           }
           
-
       `)
       
-    
- 
-
       res.data.allMarkdownRemark.edges.forEach((edge) => {
         createPage({
           component: blogTemplate,
@@ -51,12 +46,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
 
         })
       })
-  
+    
 
-  
- 
 
- 
-
-};
-
+  }
