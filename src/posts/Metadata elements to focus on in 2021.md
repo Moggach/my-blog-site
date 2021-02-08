@@ -15,7 +15,7 @@ In 2021 goods moving across the border between the UK and the EU will be subject
 <i>'For international trade in physical products, the country of origin – in ONIX, – of the goods is [] important. This allows origin-specific tariffs or extra regulations to be applied on entry into a country.'</i> ––
 [Editeur](https://www.editeur.org/files/ONIX%203/APPNOTE%20Commodity%20codes%20in%20ONIX.pdf)
 
-Country of manufacture will most often mean where the book is printed. If there is any confusion about customs declarations publishers can consult with a custms agent or broker. Sometimes the decision is made to produce individual print runs of a book in different countries so it’s important this information is kept up to date.
+Country of manufacture will most often mean where the book is printed. If there is any confusion about customs declarations publishers can consult with a customs agent or broker. Sometimes the decision is made to produce individual print runs of a book in different countries so it’s important this information is kept up to date.
 
 #### Product Classification
 Publishers must now inform customs authorities of the type of goods they are moving between the UK and the EU. This can be done in ONIX feeds using Harmonized System codes that should be specified in the Product Classification composite. These will be different between printed books and other goods like toys and games. Some products may contain components that have different codes such as a book and stuffed toy set. In this case ONIX allows publishers to specify the percentage of the product that each code applies to. 
