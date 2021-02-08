@@ -3,6 +3,7 @@ import React from "react"
 import "../pages/globalstyles.css"
 import "../templates/blogtemplate.css"
 import avatar from "../images/avatar.jpg"
+import gatsbyLogo from "../images/gatsbyjs-icon.svg"
 import { Link } from "gatsby"
 import Head from "../components/head"
 
@@ -94,7 +95,7 @@ const AboutPage = (props) => {
          Readers depend on good metadata to find their next read. <br></br> ~ IngramSpark</code>
          
        
-         <p>I'm teaching myself front end web development. Right now I'm digging into React but I've also been learning HMTL5, CSS3, Saas and Tailwind.</p>
+         <p>I'm teaching myself front end web development and I built this site using <Link to="https://www.gatsbyjs.com/">Gatsby <img src={gatsbyLogo} style={{width: "20px"}}/></Link></p>
       <p>I was awarded a London Book Fair Trailblazer Award in 2018 for my work in raising the profile of metadata across the industry &#x1F3C6;</p>
       <p>I am a member of BookMachine Team Unplugged where I help to shout about their amazing events series.</p>
       <p>I enjoy using tech to solve publishing problems. This blog is all about tech topics from a publishing perspective.</p>
