@@ -39,8 +39,6 @@ awards won
 #### Amazon Prime 
 If a book is eligible for Amazon Prime delivery this will show on the product page just above the buy button. Keeping your book in stock at Amazon’s fulfillment centres is the key to making sure it is always available on Prime. Make sure that you are supplying Amazon with realistic sales forecasts and keep an eye on their stock orders. 
 
-This is of course a non-exhaustive list of the ways publishers can improve their Amazon product pages. Improving visibility on, and sales through, Amazon is essential to our business.
-
-
+This is of course a non-exhaustive list of the ways publishers can improve their Amazon product pages. Improving visibility on, and sales through, Amazon is essential for publishers in a pandemic. For more information about using Amazon keywords effectively check out my <a href="https://www.annacunnane.co.uk/blog/A%20Brief%20Guide%20to%20Amazon%20Keywords"> post on this topic.</a>
 
 
