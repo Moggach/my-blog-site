@@ -3,7 +3,7 @@ title: "7 Key Elements to your Amazon Product Page"
 date: "2021-04-06"
 ---
 
-High quality converting Amazon product pages improve your ranking in the search algorithm and help you sell more books.
+High quality Amazon product pages can improve your ranking in the search algorithm and help you sell more books.
 
 During the COVID-19 pandemic Amazon has been the main shop window for millions of book buyers. What are the key elements of the product page where publishers can make the most difference to sales?
 
@@ -28,11 +28,11 @@ Whether these go at the top of the product description or in the Review Quotes s
 
 #### From the Publisher content (sometimes called A+ Content)
 Once a paid feature, A+ Content is now free and unlimited for all publishers. Due to the cost of producing the assets however it is best to use this feature for your key titles and bestsellers. Most publishers use some combination of:
-images from inside the book
-images of other books in the series
-lifestyle images
-review quotes or celebrity endorsements
-awards won 
+- images from inside the book
+- images of other books in the series
+- lifestyle images
+- review quotes or celebrity endorsements
+- awards won 
 
 ![Amazon A+ content](https://i.ibb.co/XWqQ5L1/A.png)
 
