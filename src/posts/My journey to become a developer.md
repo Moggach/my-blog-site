@@ -6,8 +6,6 @@ date: "2021-08-09"
 I’ve worked in book publishing for eight years but I’ve loved it. I’ve [won awards](https://hub.londonbookfair.co.uk/trailblazer-awards-winners-revealed-by-the-london-book-fair-3/) (which is really nice and slightly embarrassing) and I’ve worked on some beautiful books. 
 
 Now though I’m transitioning into becoming a software developer with [Founders and Coders](https://www.foundersandcoders.com/). If you’re interested in my journey this is how I got here...
-
-
 ![illustration of a woman working at a computer](undraw_Online_learning_re_qw08.png)
 
 ### Dabbled with coding
