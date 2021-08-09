@@ -6,7 +6,11 @@ date: "2021-08-09"
 I’ve worked in book publishing for eight years but I’ve loved it. I’ve [won awards](https://hub.londonbookfair.co.uk/trailblazer-awards-winners-revealed-by-the-london-book-fair-3/) (which is really nice and slightly embarrassing) and I’ve worked on some beautiful books. 
 
 Now though I’m transitioning into becoming a software developer with [Founders and Coders](https://www.foundersandcoders.com/). If you’re interested in my journey this is how I got here...
-<img style="padding-bottom:0;" src="undraw_Online_learning_re_qw08.png">
+
+![](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
+
+Photo by <a href="https://unsplash.com/@emilep?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Emile Perron</a> on <a href="https://unsplash.com/s/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 ### Dabbled with coding
 I started dabbling with coding quite soon out of Uni and I even attended a course on Dreamweaver (when that was still widely used). I taught myself the basics of HTML and CSS which is what you needed at the time to make basic websites. I ventured into Javascript but found it quite scary without a maths or computing background. I kept coming back to it though mostly because I liked the elegance of coding. I realised it was all about finding the most efficient solution to a problem. 
