@@ -23,7 +23,7 @@ const AboutPage = (props) => {
     <img className="avatar" src={avatar}/>
       <div className="about">
         <p className="title">Anna Cunnane</p>
-        <p>Hi! I'm Anna &#128075; and I'm an apprentice software developer&#128105;&#8205;&#128187;</p>
+        <p>Hi! I'm Anna &#128075; I work in publishing and this is my tech blog &#128105;&#8205;&#128187;</p>
           
       </div>
 
@@ -44,60 +44,17 @@ const AboutPage = (props) => {
         </a>
       <div className="copyright">@ All Rights Reserved</div>
       </div>
-      
-     
-    
-         {/*Hello and thank you for visiting my blog
-         <p>I work in book publishing in London and I specialise in metadata  &#x1f4da; </p>
-         <code>Metadata: Simply put, your book metadata is any data that describes your book—including title, subtitle, price, publication date, ISBN, and any other relevant information that readers use to find your book. 
-         Readers depend on good metadata to find their next read. <br></br> ~ IngramSpark</code>
-         
-       
-         <p>I'm teaching myself front end web development. Right now I'm digging into React but I've also been learning HMTL5, CSS3, Saas and Tailwind.</p>
-      <p>I was awarded a London Book Fair Trailblazer Award in 2018 for my work in raising the profile of metadata across the industry &#x1F3C6;</p>
-      <p>I am a member of BookMachine Team Unplugged where I help to shout about their amazing events series.</p>
-      <p>I enjoy using tech to solve publishing problems. This blog is all about tech topics from a publishing perspective.</p>
-     
-         
-        Want to get in touch with me? Please use the form below and I will get back to you as soon as I can.
-        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field"  action="/thankyou">
-  <input type="hidden" name="bot-field" />
-  <input type="hidden" name="form-name" value="contact" />
-  <div className="field half first">
-    <label htmlFor="name"></label>
-    <input type="text" name="name" id="name"  placeholder="Name"/>
-  </div>
-  <div className="field half">
-    <label htmlFor="email"></label>
-    <input type="text" name="email" id="email" placeholder="Email"/>
-  </div>
-  <div className="field">
-    <label htmlFor="message"></label>
-    <textarea name="message" id="message" rows="6" placeholder="Message"/>
-  </div>
-  <ul className="actions">
-    <li>
-      <input type="submit" value="Send Message" className="special" />
-    </li>
-    <li>
-      <input type="reset" value="Clear" className="special" />
-    </li>
-  </ul>
-  
-    </form>
-       */}
     
   
      <div className="content">
      <h3>Hello and thank you for visiting my blog</h3>
-         <p>I used to work in book publishing and now I am retraining to become a software developer with Founders and Coders &#x1f4da; </p>
-        
+     <p>I used to work in book publishing and now I am retraining to become a software developer with Founders and Coders &#x1f4da; </p>
        
-      <p>For the past two years I have been learning web development and I built this site using <Link to="https://www.gatsbyjs.com/">Gatsby <img src={gatsbyLogo} style={{width: "20px"}}/></Link></p>
-      <p>I am joining the FAC22 cohort at Founders and Coders in September 2021 and in January 2022 I will start my apprenticeship at Common Knowledge.
-      <p>I am passionate about the rights of women and girls and I am also an advisor on the National Domestic Abuse Helpline.</p>
-      <p> I am interested in how tech can solve problems for the common good. This blog is about tech topics from a social justice perspective.</p>
-       
+        <p>For the past two years I have been learning web development and I built this site using <Link to="https://www.gatsbyjs.com/">Gatsby <img src={gatsbyLogo} style={{width: "20px"}}/></Link></p>
+        <p>I am joining the FAC22 cohort at Founders and Coders in September 2021 and in January I will start my apprenticeship at Common Knowledge.
+        <p>I am passionate about the rights of women and girls and I am also an advisor on the National Domestic Abuse Helpline.</p>
+        <p> I am interested in how tech can solve problems for the common good. This blog is about tech topics from a social justice perspective.</p>
+  
       Want to get in touch with me? Please use the form below and I will get back to you as soon as I can.
         <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field"  action="/thankyou">
   <input type="hidden" name="bot-field" />
@@ -130,13 +87,15 @@ const AboutPage = (props) => {
 
 
 
-
+  </p>
     </div>
-     </div>
+    </div>
+     
        
        
   
     
     );
   }
+
 export default AboutPage
