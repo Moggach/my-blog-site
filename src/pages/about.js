@@ -23,7 +23,7 @@ const AboutPage = (props) => {
     <img className="avatar" src={avatar}/>
       <div className="about">
         <p className="title">Anna Cunnane</p>
-        <p>Hi! I'm Anna &#128075; I work in publishing and this is my tech blog &#128105;&#8205;&#128187;</p>
+        <p>Hi! I'm Anna &#128075; I'm an apprentice software developer at <Link to="https://www.foundersandcoders.com/">Founders and Coders</Link> &#128105;&#8205;&#128187;</p>
           
       </div>
 
@@ -51,7 +51,7 @@ const AboutPage = (props) => {
      <p>I used to work in book publishing and now I am retraining to become a software developer with Founders and Coders &#x1f4da; </p>
        
         <p>For the past two years I have been learning web development and I built this site using <Link to="https://www.gatsbyjs.com/">Gatsby <img src={gatsbyLogo} style={{width: "20px"}}/></Link></p>
-        <p>I am joining the FAC22 cohort at Founders and Coders in September 2021 and in January I will start my apprenticeship at Common Knowledge.
+        <p>I am joining the FAC22 cohort at <Link to="https://www.foundersandcoders.com/"></Link>Founders and Coders in September 2021 and in January I will start my apprenticeship at  <Link to="https://commonknowledge.coop/"></Link>Common Knowledge.
         <p>I am passionate about the rights of women and girls and I am also an advisor on the National Domestic Abuse Helpline.</p>
         <p> I am interested in how tech can solve problems for the common good. This blog is about tech topics from a social justice perspective.</p>
   
