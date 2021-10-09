@@ -2,11 +2,10 @@
 title: "Attending Co-Tech conference at Space4"
 date: "2021-10-09"
 ---
-### Here is a title
-
-![Co-tech logo](./co-tch.png) 
 
 Co-Tech (Co-operative Technologists) is a network of co-operatives that sell digital or tech services. They met for their conference on 23-24th September in the co-working space at Space4 in Islington. I attended as a new member of [Common Knowledge](https://commonknowledge.coop/) who have hired me as an apprentice software developer. This has enabled me to complete the full time programme at [Founders and Coders](https://www.foundersandcoders.com/) who are also a part of Co-Tech.
+
+![Co-tech logo](./co-tch.png) 
 
 A coop is a company that is owned and democratically run by its workers - and in some cases customers. The members of Co-Tech aim to develop technology that serves the needs of workers and communities before private profit. [Common Knowledge](https://commonknowledge.coop/) does this by designing digital tools for grassroots activists to create radical change. 
 
