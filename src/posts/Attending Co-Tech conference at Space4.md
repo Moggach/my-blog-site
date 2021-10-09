@@ -2,8 +2,9 @@
 title: "Attending Co-Tech conference at Space4"
 date: "2021-10-09"
 ---
+### Here is a title
 
-<img src="./co-tch.png" alt="co-tech logo" width="500"/>
+![Co-tech logo](./co-tch.png) 
 
 Co-Tech (Co-operative Technologists) is a network of co-operatives that sell digital or tech services. They met for their conference on 23-24th September in the co-working space at Space4 in Islington. I attended as a new member of [Common Knowledge](https://commonknowledge.coop/) who have hired me as an apprentice software developer. This has enabled me to complete the full time programme at [Founders and Coders](https://www.foundersandcoders.com/) who are also a part of Co-Tech.
 
