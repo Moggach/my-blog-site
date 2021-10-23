@@ -1,6 +1,6 @@
 ---
 title: "Four Things I've Learn So Far at Founders & Coders"
-date: "2021-08-09"
+date: "2021-10-23"
 ---
 
 It’s been a month since I started the full time course at Founders & Coders and it seems like a good time to talk about what I’ve been learning.
