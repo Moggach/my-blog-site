@@ -5,11 +5,9 @@ date: "2021-10-23"
 
 It’s been a month since I started the full time course at Founders & Coders and it seems like a good time to talk about what I’ve been learning.
 
-![](./FAC.png) 
-
  The FAC course is a software development bootcamp taught at Space4 in Islington and remotely. It is a peer led course facilitated by mentors from a previous cohort and aims to create an inclusive environment especially for those who are currently underrepresented in tech. For more details and how to apply visit their [website](https://www.foundersandcoders.com/apply/).
 
-### Git workflows <img src="github-logo.png" width="20" />
+### Git workflows <img src="github-logo.png" width="20px" />
 Git is software used for tracking changes in any set of files. It is used to enable collaborative working by developers. Before starting at FAC I didn’t have much opportunity to use its more powerful features. Now I start a branch whenever I start working on a new issue and create a PR to have my code reviewed by my teammates before it gets merged to the main branch. 
 
 ### Node.js and Express 🚀
