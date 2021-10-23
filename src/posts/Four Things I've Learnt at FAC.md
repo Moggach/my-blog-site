@@ -1,5 +1,5 @@
 ---
-title: "Four Things I've Learn So Far at Founders & Coders"
+title: "Four Things I've Learnt So Far at Founders & Coders"
 date: "2021-10-23"
 ---
 
