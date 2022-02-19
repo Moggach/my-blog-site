@@ -9,7 +9,7 @@ When I decided to start blogging I knew that I wanted to build the site myself. 
 
 Gatsby is an open source framework that helps you create a static website easily and quickly.
 
-[The Gatsby docs](https://www.gatsbyjs.com/docs) have a tutorial that can get you started with a blog site within minutes. The Gatsby Starters Library has templates for e-commerce, portfolio, blog and other sites.
+[The Gatsby docs](https://www.gatsbyjs.com/docs) have a tutorial that can get you started with a blog site within minutes. [The Gatsby Starters Library](https://www.gatsbyjs.com/starters/) has templates for e-commerce, portfolio, blog and other sites.
 
 ![](./Gatsby_site.png)
 
