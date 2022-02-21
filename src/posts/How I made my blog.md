@@ -13,7 +13,7 @@ Gatsby is an open source framework that helps you create a static website easily
 
 ![](./Gatsby_site.png)
 
-To make the site I followed this [YouTube tutorial](https://youtu.be/8t0vNu2fCCM) closely. The creator, Andrew Mead, has more courses on the JavaScript ecosystem on his [https://mead.io/](blog). I also had a lot of fun with the whole open source ecosystem around Gatsby including the many plugins.
+To make the site I followed this [YouTube tutorial](https://youtu.be/8t0vNu2fCCM) closely. The creator, Andrew Mead, has more courses on the JavaScript ecosystem on his [blog](https://mead.io/). I also had a lot of fun with the whole open source ecosystem around Gatsby including the many plugins.
 
 ### Challenges ⛰️
 
