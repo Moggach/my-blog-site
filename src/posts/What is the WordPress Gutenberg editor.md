@@ -15,7 +15,7 @@ Page builders like Elementor and Beaver came onto the market to allow non-coders
 
 All pages and posts built with Gutenberg consist of blocks. These can be text, different types of media, shortcodes, and even layout elements like columns. For a complete list check out https://gogutenberg.com/blocks/
 
-![](./Gutenberg.gif) 
+![](https://raw.githubusercontent.com/Moggach/my-blog-site/master/src/posts/Gutenberg.gif) 
 
 The Gutenberg editor enables you to (amongst many other things): 
 
