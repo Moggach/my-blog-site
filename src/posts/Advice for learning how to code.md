@@ -18,12 +18,12 @@ Most people start with HTML, CSS and JavaScript and these are still essential fo
 
 Research has shown that some of the best ways to learn any new skill are spaced repetition and active recall. 
 
-Spaced repetition involves reviewing and recalling topics at optimally spaced intervals. This technique interrupts the brain’s natural forgetting curve allowing the information to be stored in long term memory. It’s difficult to work this out on your own so I use Execute Programme which also has the added benefit of getting me to actively recall the information.
+Spaced repetition involves reviewing and recalling topics at optimally spaced intervals. This technique interrupts the brain’s natural forgetting curve allowing the information to be stored in long term memory. It’s difficult to work this out on your own so I use [Execute Programme](https://www.executeprogram.com/) which also has the added benefit of getting me to actively recall the information.
 
 Active recall means testing yourself to see how well you’ve understood something at every stage of your revision. It’s actually the process of retrieving information that helps your brain form memories faster. This method is much more effective than passively reading an article or watching a YouTube video.
 
 ### Learn underlying concepts
-It’s helpful to understand some fundamental concepts that underpin most languages and software projects. Variables, loops, objects and functions are ideas that you will come across time and time again.  
+It’s helpful to understand some fundamental concepts that underpin most languages and software projects. Variables, loops, objects and functions are ideas that you will come across time and time again. Understanding a bit about [Big O notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/) could help you impress at interview. There are broadly three types of programming: function, object oriented and procedural. Knowing their strengths and weaknesses helps you make the right choice.
 
 ### Build projects
 You should be getting stuck into code quickly as you will learn the most from tinkering with it. Download the starter files for a YouTube tutorial and take it further by implementing new features. You could also create a clone of a popular site like Netflix or Instagram. Consider building a portfolio site and use it to host a blog where you write about what you are learning (like this one!)
