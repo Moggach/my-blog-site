@@ -16,26 +16,7 @@ import {
 
 
 
-export const blogListQuery = graphql`
-  query blogListQuery($skip: Int!, $limit: Int!) {
-    allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
-      limit: $limit
-      skip: $skip
-    ) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-          }
-        }
-      }
-    }
-  }
-`
+
 
 const BlogList = (props) => {
   const posts = this.props.data.allMarkdownRemark.edges
@@ -68,19 +49,7 @@ const BlogList = (props) => {
        </a>
      <div className="copyright">@ All Rights Reserved</div>
      </div>
-            <ul className="blog-list">
-                {posts.map(( {node} ) => {
-                    return (
-                        <li>
-                                <div className="blog-date">{node.frontmatter.date}</div>
-                                <div className="blog-title">{node.frontmatter.title}</div>
-                                <div className="blog-blurb">{node.excerpt}</div>
-                                <Link to={`/blog/${node.fields.slug}`}><div className="read-more">Read More</div></Link>
-                            
-                        </li>
-                    )   })}
-              
-            </ul>
+
     </div>
       )}
 export default BlogList

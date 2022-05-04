@@ -87,7 +87,7 @@ const AboutPage = props => {
             method="post"
             data-netlify="true"
             data-netlify-honeypot="bot-field"
-            action="/thankyou"
+            action="/thank-you"
           >
             <input type="hidden" name="bot-field" />
             <input type="hidden" name="form-name" value="contact" />

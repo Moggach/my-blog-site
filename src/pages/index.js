@@ -2,7 +2,6 @@ import React from "react"
 import "./globalstyles.css"
 import avatar from "../images/avatar.jpg"
 import { Link } from "gatsby"
-import BlogList from "../components/bloglist"
 import Head from "../components/head"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
@@ -17,6 +16,7 @@ config.autoAddCss = false
 
 
 const Index = function() {
+
     return (
     
     <div className="container">
@@ -47,11 +47,48 @@ const Index = function() {
         <div className="copyright">@ All Rights Reserved</div>
        
         </div>
-        <div className="border-container"><BlogList/></div>
+        <div className="border-container">            
+        {/* <ul className="blog-list">
+
+                {posts.map(( {node} ) => {
+                    return (
+                        <li>
+                                <div className="blog-date">{node.frontmatter.date}</div>
+                                <div className="blog-title">{node.frontmatter.title}</div>
+                                <div className="blog-blurb">{node.excerpt}</div>
+                                <Link to={`/blog/${node.fields.slug}`}><div className="read-more">Read More</div></Link>
+                            
+                        </li>
+                 
+                    )   })}
+              
+            </ul> */}
       
+      </div>
       </div>
      
     );
   }
+
+  export const blogListQuery = graphql`
+  query blogListQuery($skip: Int!, $limit: Int!) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+          }
+        }
+      }
+    }
+  }
+`
 
   export default Index
