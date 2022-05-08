@@ -1,6 +1,6 @@
 import React from "react"
 import "../pages/globalstyles.css"
-import "./bloglist.css"
+import "./blog-list.css"
 import avatar from "../images/avatar.jpg"
 
 import { Link } from "gatsby"
