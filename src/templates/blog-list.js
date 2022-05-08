@@ -7,7 +7,12 @@ import Layout from '../components/layout'
 export default class BlogList extends React.Component {
     render() {
         const posts = this.props.data.allMarkdownRemark.edges
-        const { numPages } = this.props.pageContext
+        const { numPages, currentPage } = this.props.pageContext
+        const isFirst = currentPage === 1
+        const isLast = currentPage === numPages
+        const prevPage =
+            currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
+        const nextPage = (currentPage + 1).toString()
 
         return (
             <Layout>
@@ -31,6 +36,17 @@ export default class BlogList extends React.Component {
                         )
                     })}
                 </ul>
+
+                {!isFirst && (
+                    <Link to={`../${prevPage}`} rel="prev">
+                        ← Previous Page
+                    </Link>
+                )}
+                {!isLast && (
+                    <Link to={`../${nextPage}`} rel="next">
+                        Next Page
+                    </Link>
+                )}
                 <ul>
                     {Array.from({ length: numPages }, (_, i) => (
                         <li key={`pagination-number${i + 1}`}>
