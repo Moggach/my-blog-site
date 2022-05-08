@@ -2,7 +2,7 @@ import React from 'react'
 import './globalstyles.css'
 import Head from '../components/head'
 import Layout from '../components/layout'
-import BlogList from '../components/blog-list'
+import BlogList from '../templates/blog-list'
 
 const Index = function () {
     return (
