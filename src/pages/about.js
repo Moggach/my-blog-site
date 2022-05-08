@@ -4,14 +4,12 @@ import '../templates/blog-post.css'
 import gatsbyLogo from '../images/gatsbyjs-icon.svg'
 import { Link } from 'gatsby'
 import Head from '../components/head'
-import SideBar from '../components/sidebar'
+import Layout from '../components/layout'
 
 const AboutPage = () => {
     return (
-        <div className="container">
+        <Layout>
             <Head title="About" />
-
-            <SideBar />
             <div className="content">
                 <h3>Hello and thank you for visiting my blog</h3>
                 <p>
@@ -96,7 +94,7 @@ const AboutPage = () => {
                     </form>
                 </p>
             </div>
-        </div>
+        </Layout>
     )
 }
 

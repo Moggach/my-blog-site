@@ -2,17 +2,17 @@ import React from 'react'
 import './globalstyles.css'
 import './about.css'
 import Head from '../components/head'
-import SideBar from '../components/sidebar'
+import Layout from '../components/layout'
 
 const ThankYouPage = function () {
     return (
-        <div className="container">
-            <Head title="About" />
-            <SideBar />
+        <Layout>
+            <Head title="Thank you" />
+
             <div className="content">
                 <p>Thank you for your submission!</p>
             </div>
-        </div>
+        </Layout>
     )
 }
 

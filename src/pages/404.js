@@ -2,14 +2,12 @@ import React from 'react'
 import './globalstyles.css'
 import { Link } from 'gatsby'
 import Head from '../components/head'
-import SideBar from '../components/sidebar'
+import Layout from '../components/layout'
 
 const NotFound = () => {
     return (
-        <div className="container">
-            <SideBar />
-            <Head title="About" />
-
+        <Layout>
+            <Head title="Page Not found" />
             <div className="content">
                 <div>
                     <h3>Page not found</h3>
@@ -18,7 +16,7 @@ const NotFound = () => {
                     </p>
                 </div>
             </div>
-        </div>
+        </Layout>
     )
 }
 
