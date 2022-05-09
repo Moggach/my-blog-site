@@ -29,7 +29,7 @@ export default class BlogList extends React.Component {
                                 <div className="blog-blurb">
                                     {post.node.excerpt}
                                 </div>
-                                <Link to={`/blog/${post.node.fields.slug}`}>
+                                <Link to={`${post.node.fields.slug}`}>
                                     <div className="read-more">Read More</div>
                                 </Link>
                             </li>
