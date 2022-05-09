@@ -1,13 +1,14 @@
 import React from 'react'
 import '../pages/globalstyles.css'
 import './blog-post.css'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layout'
 
 class BlogPost extends React.Component {
     render() {
         const post = this.props.data.markdownRemark
+        const { previous, next } = this.props.pageContext
 
         return (
             <Layout>
@@ -23,6 +24,23 @@ class BlogPost extends React.Component {
                         }}
                     ></div>
                 </div>
+
+                <ul>
+                    <li>
+                        {previous && (
+                            <Link to={previous.fields.slug} rel="prev">
+                                Prev {previous.frontmatter.title}
+                            </Link>
+                        )}
+                    </li>
+                    <li>
+                        {next && (
+                            <Link to={next.fields.slug} rel="next">
+                                {next.frontmatter.title} Next
+                            </Link>
+                        )}
+                    </li>
+                </ul>
             </Layout>
         )
     }
