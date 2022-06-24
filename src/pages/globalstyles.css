@@ -57,16 +57,13 @@ a {
   color: black;
 }
 
-.active {
-  text-decoration: underline;
-  text-decoration-color: black;
-}
 
 .about {
   font-size: 0.9rem;
   font-weight: 300;
   line-height: 1.3em;
 }
+
 li {
   margin-top: 0.4rem;
   padding-top: 0.3rem;
@@ -77,7 +74,7 @@ li {
   .container {
     display: grid;
     grid-template-columns: 1fr;
-    /*grid-template-rows: 1fr 2fr*/
+
   }
 
   .sidebar {

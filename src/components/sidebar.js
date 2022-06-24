@@ -30,7 +30,7 @@ const SideBar = () => {
             </div>
 
             <ul>
-                <li className="active">
+                <li>
                     <Link to="/">Blog</Link>
                 </li>
                 <li>
