@@ -1,5 +1,5 @@
 ---
-title: "What is a headless CMS"
+title: "What is a headless CMS?"
 date: "2022-06-24"
 ---
 
