@@ -38,7 +38,7 @@ Scalable and Modular Architecture for CSS is also object oriented but gives us m
 
 ### BEM
 
-Block Element Modifier is a CSS convention for class names. Blocks are independent, reusable parts of a website such as a nav or sidebar. Within blocks there are elements, for example a menu item or header title, that are semantically tied to the block. Modifiers such as disabled or highlighted are used to change an element’s look or behaviour.
+Block Element Modifier is a CSS convention for class names. Blocks are independent, reusable parts of a website such as a nav or sidebar. Elements are context dependent - they only make sense within the contenxt of the block, for example a menu item or header title. Modifiers such as disabled or highlighted are used to change an element’s look or behaviour.
 
 ### Atomic CSS
 
