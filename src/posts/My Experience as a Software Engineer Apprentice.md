@@ -1,12 +1,12 @@
 ---
 title: "My experience as an apprentice at Common Knowledge"
-date:
+date: "2022-08-17"
 intro: A report of my apprenticeship so far
 ---
 
 This blog was originally posted on the [Common Knowledge website](https://commonknowledge.coop/writing/common-knowledge-apprenticeship)
 
-I’m Anna and I’m the software engineering apprentice here at Common Knowledge. I thought it might be interesting to write about my experiences as a software engineering apprentice since September 2021.
+I’m Anna and I’m a software engineering apprentice at Common Knowledge. I thought it might be interesting to write about my experiences as a software engineering apprentice since September 2021.
 
 I used to work in book publishing but about 3 years ago I started learning to code in my spare time. I started with just a few minutes a day and taught myself the basics of HTML, CSS and JavaScript.
 
