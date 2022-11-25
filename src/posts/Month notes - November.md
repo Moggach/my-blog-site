@@ -6,7 +6,9 @@ date: "2022-11-25"
 ### Notes from November
 
 🌍 Working on FutureNatures, StopWatch and Humanitarian OpenStreetMap for Common Knowledge. 
+
 ✏️ Redesigning my personal website in WordPress. 
+
 🗣 Practicing mock assessments for my apprenticeship portfolio review. 
 
 
@@ -27,7 +29,7 @@ This month has been full of a few different projects.
 #### What I’ve been learning
 Over the past month I’ve learnt how to:
 - use Flowbite to build UI components with Tailwind CSS in Django templates
-- use meta_query inside WP_Query to order and filter by custom meta fields 
+- use `meta_query` inside `WP_Query` to order and filter by custom meta fields 
 - use the Stimulus Carousel package (built on top of Swiper.js) to create a responsive carousel component. One really cool thing about this is the customisable SwiperOptions. In this case I used them to determine the number of slides displayed based on screen size
 - create a custom EmbedFinder class to embed a Shiny app in a Django template 
 
