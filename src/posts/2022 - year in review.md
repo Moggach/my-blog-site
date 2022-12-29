@@ -10,8 +10,9 @@ Since January 2022 I’ve been an apprentice software engineer at [Common Knowle
 I began by making small contributions to projects such as adding an email sign up form and progressed to making a one-page holding site for co-op client Future Natures. As the year has gone on I’ve taken on increasing responsibility from implementing features on the [Future Natures website](https://futurenatures.org/) redesign to coding parts of the new [The World Transformed site](https://theworldtransformed.org/).
 Right now I’m building the next version of the [Common Knowledge website](https://alpha.commonknowledge.coop) and documenting my progress [here](https://alpha.commonknowledge.coop/writing/).
 
-![A gif of the writing page on the new Common Knowledge website](chrome-capture-2022-11-12.gif)
-The new Common Knowledge website in progress 🚀
+![2022 lightpainted with sparklers](https://images.unsplash.com/photo-1637769270420-e02b7419a721?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
+Photo by <a href="https://unsplash.com/@mokngr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Moritz Knöringer</a> on <a href="https://unsplash.com/photos/LPj8vt3EoXE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 
 ### What I’ve learnt 🎓
