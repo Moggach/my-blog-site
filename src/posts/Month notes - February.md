@@ -28,7 +28,7 @@ In March I’ll be continuing the migration of the 350.org WordPress digital est
 These are some interesting links that I’ve come across this month: 
 - [CSS Weekly](https://css-weekly.com/) is a website that provides a weekly roundup of CSSrelated news, articles, tutorials, and resources. 
 - Learn how to make [ten modern layouts](https://web.dev/one-line-layouts/) with just one of line of CSS each 
-- 12factor.net is a website that describes a methodology for building applications that are scalable, maintainable, and resilient 
+- [12factor.net](https://12factor.net/) is a website that describes a methodology for building applications that are scalable, maintainable, and resilient 
 - [The Arc Browser](https://arc.net/) wants to change the way we view the web Check it out here 
 - Developer Stefan Judis shares [three VS code extensions](https://www.stefanjudis.com/blog/vs-code-extensions-to-ease-navigating-code/) that help with navigating code
 
