@@ -13,7 +13,7 @@ Photo by <a href="https://unsplash.com/@glencarrie?utm_source=unsplash&utm_mediu
 
 #### What I’ve been working on
 
-This month I’ve been helping get The World Transformed website ready for the launch of their 2023 festival. This included some site enhancements like allowing editors to customise background and text colours of streamfield blocks and adding a video player to the full width header image. I have continued supporting [350.org](https://350.org/) with their transition over to the [Bedrock pattern](https://roots.io/bedrock/) for their WordPress sites. This month we successfully recreated and deployed a production 350 site with this new stack. Finally, I’ve been adapting the [Schematic WordPress theme](https://schematictheme.com/) so that it can be reused for the SWARM website redesign.
+This month I’ve been helping get [The World Transformed](https://theworldtransformed.org/) website ready for the launch of their 2023 festival. This included some site enhancements like allowing editors to customise background and text colours of streamfield blocks and adding a video player to the full width header image. I have continued supporting [350.org](https://350.org/) with their transition over to the [Bedrock pattern](https://roots.io/bedrock/) for their WordPress sites. This month we successfully recreated and deployed a production 350 site with this new stack. Finally, I’ve been adapting the [Schematic WordPress theme](https://schematictheme.com/) so that it can be reused for the SWARM website redesign.
 
 #### What I’ve been learning
 This month I’ve been learning how to:
@@ -31,11 +31,11 @@ In June I’ll be finishing my work on SWARM and preparing the site for launch. 
 #### Interesting links
 
 These are some interesting links that I’ve come across this month:
-[Guide to AI](https://nathanbenaich.substack.com/) is a monthly newsletter that analyses the most important developments in AI 
-Get a [one minute CSS tip every day](https://css-tip.com/) All the CSS secrets are here
-A [Python library](https://github.com/marceloprates/prettymaps) to draw beautiful maps from OpenStreetMap data 
-[Eleventy rocks](https://11ty.rocks/) is a collection of starters, plugins and resources for the static site generators 
-[The Vanilla JS toolkit](https://vanillajstoolkit.com/) is a collection of tools and snippets for JavaScript without frameworks
+- [Guide to AI](https://nathanbenaich.substack.com/) is a monthly newsletter that analyses the most important developments in AI 
+- Get a [one minute CSS tip every day](https://css-tip.com/) All the CSS secrets are here
+- A [Python library](https://github.com/marceloprates/prettymaps) to draw beautiful maps from OpenStreetMap data 
+- [Eleventy rocks](https://11ty.rocks/) is a collection of starters, plugins and resources for the static site generators 
+- [The Vanilla JS toolkit](https://vanillajstoolkit.com/) is a collection of tools and snippets for JavaScript without frameworks
 
 
 
