@@ -32,7 +32,7 @@ In June I’ll be finishing my work on SWARM and preparing the site for launch. 
 
 These are some interesting links that I’ve come across this month:
 - [Guide to AI](https://nathanbenaich.substack.com/) is a monthly newsletter that analyses the most important developments in AI 
-- Get a [one minute CSS tip every day](https://css-tip.com/) All the CSS secrets are here
+- Get a [one minute CSS tip every day](https://css-tip.com/) 
 - A [Python library](https://github.com/marceloprates/prettymaps) to draw beautiful maps from OpenStreetMap data 
 - [Eleventy rocks](https://11ty.rocks/) is a collection of starters, plugins and resources for the static site generators 
 - [The Vanilla JS toolkit](https://vanillajstoolkit.com/) is a collection of tools and snippets for JavaScript without frameworks
