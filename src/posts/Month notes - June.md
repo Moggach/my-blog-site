@@ -23,12 +23,12 @@ This month I’ve been learning how to:
 - Display Mapbox data in a custom Gutenberg block with library CarbonFields and plugin Mapster WP Maps
 
 ### What’s next
-In July I want to get an MVP of my personal portfolio site online. I will also be moving this blog across to the new site so next month's notes will be posted there ⭐ I will be helping  finish off the build for the Architecture Lobby website. I am expecting to start work on a website redesign and build for Solidarity Knows No Borders which is a campaign group and coalition run by Migrants Organise. 
+In July I want to get an MVP of my personal portfolio site online. I will also be moving this blog across to the new site so in the next few months these notes will be posted there ⭐ I will be helping  finish off the build for the Architecture Lobby website. I am expecting to start work on a website redesign and build for Solidarity Knows No Borders which is a campaign group and coalition run by Migrants Organise. 
 
 ### Interesting links
 These are some interesting links that I’ve come across this month: 
-https://egghead.io/q?access_state=free Egghead.io is my favourite resource for web development tutorials. These are their current free courses.
-https://www.phind.com/  -  Phind is a developer-focused search engine that uses generative AI to search the web and answer technical questions
-https://www.figma.com/blog/introducing-dev-mode/ Dev Mode is a new workspace within Figma design specifically for developers
-https://developer.wordpress.org/playground/ - WordPress Playground runs in the browser with instant set up. Great for testing and previewing pull requests. 
-https://chriscoyier.net/2023/06/06/modern-css-in-real-life/ - Chris Coyier looks at 5 new CSS features that are in use now across the web
+- https://egghead.io/q?access_state=free Egghead.io is my favourite resource for web development tutorials. These are their current free courses.
+- https://www.phind.com/  -  Phind is a developer-focused search engine that uses generative AI to search the web and answer technical questions
+- https://www.figma.com/blog/introducing-dev-mode/ Dev Mode is a new workspace within Figma design specifically for developers
+- https://developer.wordpress.org/playground/ - WordPress Playground runs in the browser with instant set up. Great for testing and previewing pull requests. 
+- https://chriscoyier.net/2023/06/06/modern-css-in-real-life/ - Chris Coyier looks at 5 new CSS features that are in use now across the web
