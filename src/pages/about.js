@@ -22,7 +22,7 @@ const AboutPage = props => {
         <div className="about">
           <p className="title">Anna Cunnane</p>
           <p>
-            Hi! I'm Anna &#128075; I'm an apprentice software developer at{" "}
+            Hi! I'm Anna &#128075; I'm an junior software developer at{" "}
             <Link to="https://commonknowledge.coop/">Common Knowledge</Link>{" "}
             &#128105;&#8205;&#128187;
           </p>
