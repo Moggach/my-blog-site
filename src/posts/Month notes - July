@@ -25,7 +25,7 @@ This month I’ve been learning how to:
 In August I’m going to be creating a workflow for handling WordPress multisite installations with Bedrock. I’m also expecting to start work on a new website for a project called Solidarity Knows No Borders which is part of the Migrants Organise Campaign Group. I’ve already done some technical discovery for this project including research on how to implement a map that displays locations of local groups within the organisation. I’m planning to add some styling to the blog page on my new personal site. I would like to spend some time thinking about the structure behind my approach to the WordPress Full Site Editor and what is appropriate to put in templates versus page content or patterns. 
 
 ### Interesting links
-These are some interesting links that I’ve come across this month
+These are some interesting links that I’ve come across this month:
 - https://fullsiteediting.com/  is a comprehensive tutorial for  the WordPress Full Site Editor and writing block based themes
 - https://devdocs.io/ combines multiple API documentations in a fast, organised, and searchable interface
 - Kara Luton, engineer at CrowdStrike has a [guide to perfecting pull requests](https://dev.to/karaluton/a-guide-to-perfecting-pull-requests-2b66)
