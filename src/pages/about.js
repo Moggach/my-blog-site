@@ -74,7 +74,7 @@ const AboutPage = props => {
         <p>
           I was part of the FAC22 cohort at{" "}
           <Link to="https://www.foundersandcoders.com/"></Link>Founders and
-          Coders and I now work as an Apprentice Software Developer at{" "}
+          Coders and I now work as a Junior Software Developer at{" "}
           <Link to="https://commonknowledge.coop/"></Link>Common Knowledge.
           <p>
             I am passionate about the rights of women and girls and I am also an

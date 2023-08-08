@@ -23,7 +23,7 @@ import {
       <img className="avatar" src={avatar}/>
         <div className="about">
           <p className="title">Anna Cunnane</p>
-          <p>Hi! I'm Anna &#128075; I'm an apprentice software developer at <Link to="https://commonknowledge.coop/">Common Knowledge</Link> &#128105;&#8205;&#128187;</p>
+          <p>Hi! I'm Anna &#128075; I'm a junior software developer at <Link to="https://commonknowledge.coop/">Common Knowledge</Link> &#128105;&#8205;&#128187;</p>
           
         </div>
 
