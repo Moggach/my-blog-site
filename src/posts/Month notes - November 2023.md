@@ -3,7 +3,7 @@ title: "Month notes - November 2023"
 date: "2023-12-04"
 ---
 
-Building the Solidarity Knows No Borders website ✊Using AlpineJs to add interactivity to a web page ⛰️Finishing my new personal website 🔗Beginning a project with NextJs and Sanity ⏭️
+Building the Solidarity Knows No Borders website ✊ Using AlpineJs to add interactivity to a web page ⛰️ Finishing my new personal website 🔗 Beginning a project with NextJs and Sanity ⏭️
 
 ### What I’ve been working on
 Over the past month I’ve been mainly focused on building the Solidarity Knows No Borders website. This project is a WordPress site built with the Full Site Editor and a few custom components like an interactive map and an embedded Action Network sign up form. We will be launching the site soon and I’m really excited for people to see it. I’ve also been learning how to create custom Gutenberg blocks in React and I’ve started a mini project to create a filter block. There’s one remaining bug where the block validation is failing that I need to solve. Aside from development work I’ve been learning about project management and have taken on the role of steward for a couple of projects at Common Knowledge. In my free time I’ve finished my new personal website and I’m getting it ready to launch. 
@@ -23,7 +23,7 @@ This month I’ve been learning how to:
 - clone and adapt a NextJs and Sanity template and deploy it to Vercel
 
 ### What’s next
-Over the next month I’m hoping to launch my new personal website and archive my current site. Prior to launch I’d like to add Plausible as a web analytics tool and install the Eleventy social share card generator plugin to make sure my links look good on social media. For my next personal project I’m building another portfolio website for my partner using NextJs and Sanity. This will be a good opportunity to learn how to use Sanity Studio and improve my TypeScript skills. At Common Knowledge I will be steward for a new interactive tool for an online feminist magazine and picking up some development work on an ecommerce website for Pluto Books. I would also like to package up my custom Gutenberg filtering block into a plugin for use on all Common Knowledge WordPress sites. 
+Over the next month I’m hoping to launch my new personal website and archive my current site. Prior to launch I’d like to add [Plausible](https://plausible.io/) as a web analytics tool and install the [Eleventy social share card generator plugin](https://github.com/tpiros/eleventy-plugin-social-share-card-generator) to make sure my links look good on social media. For my next personal project I’m building another portfolio website for my partner using NextJs and Sanity. This will be a good opportunity to learn how to use Sanity Studio and improve my TypeScript skills. At Common Knowledge I will be steward for a new interactive tool for an online feminist magazine and picking up some development work on an ecommerce website for Pluto Books. I would also like to package up my custom Gutenberg filtering block into a plugin for use on all Common Knowledge WordPress sites. 
 
 ### Interesting links
 These are some interesting links that I’ve come across this month:
