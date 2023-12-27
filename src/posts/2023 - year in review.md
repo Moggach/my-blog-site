@@ -22,7 +22,7 @@ In 2023, as well as gaining confidence as a developer generally, I have focussed
 - I’ve been learning to develop block based themes in WordPress which allow editors to customize almost all elements of a site. 
 - I’ve started to use Alpine Js which is a lightweight JavaScript framework for adding bits of interactivity to web pages. 
 - I’ve made my new portfolio site with static site generator Eleventy and I’ve appreciated its simplicity and the level of control it offers developers
-- I’ve been working with geographic data for Solidarity Knows No Borders and my domestic abuse services mapping project and Mapbox has been a great tool for this. I’m proud of the clustering feature I implemented on this page. 
+- I’ve been working with geographic data for Solidarity Knows No Borders and my domestic abuse services mapping project and Mapbox has been a great tool for this. I’m proud of the clustering feature I implemented on [this page](https://sknb.org/community/). 
 
 ### The Challenges
 Inevitably as part of the learning process I have had plenty of challenges and difficult moments in 2023. I have struggled a lot with feeling that I’m working very slowly particularly compared to more senior developers. I know that speed will come with time and experience but it’s very tough day to day to feel that I’m not contributing enough to the team. Another challenge has been keeping my CSS organized without using a framework. I’ve tried very hard to improve my understanding of PHP and WordPress from the ground up but I’ve still found modifying the query loop block difficult. 
